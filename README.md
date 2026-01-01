@@ -1,3 +1,10 @@
+# Color Picker App
+
+A simple React + Vite project to pick colors dynamically.
+
+## Live Demo
+Check it out here: [Color Picker App on Vercel](https://color-picker-six-nu.vercel.app/)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
